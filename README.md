@@ -45,7 +45,7 @@ Abre [http://localhost:3000](http://localhost:3000) para ver la aplicación en t
 
 ## Despliegue
 
-Aplicación desplegada en:  
+Aplicación desplegada en: [App Web en Vercel](https://prueba-tecnica-api-y-carrito-de-com.vercel.app/)
 
 
 ## Autor
